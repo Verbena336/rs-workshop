@@ -1,9 +1,6 @@
 function hello() {
     alert('Hello!')
 }
-<<<<<<< HEAD
-//bla
-=======
 
 function bye() {
     alert('Bye!')
@@ -12,4 +9,3 @@ function bye() {
 function something() {
     alert('Something')
 }
->>>>>>> feature
