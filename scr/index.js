@@ -5,3 +5,7 @@ function hello() {
 function bye() {
     alert('Bye!')
 }
+
+function something() {
+    alert('Something')
+}
